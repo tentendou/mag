@@ -10,3 +10,4 @@ fudeji/NTF/collabo/khaos/jooointcar/JOOOINTWORLD/movie/hebi.mp4 filter=lfs diff=
 git[[:space:]]add[[:space:]]fudeji/NTF/collabo/khaos/jooointcar/JOOOINTWORLD/movie/hebi.mp4
 git[[:space:]]lfs[[:space:]]track[[:space:]]fudeji/NTF/collabo/khaos/jooointcar/JOOOINTWORLD/movie/hebi.mp4 filter=lfs diff=lfs merge=lfs -text
 fudeji/NTF/collabo/khaos/jooointcar/JOOOINTWORLD/movie.mp4 filter=lfs diff=lfs merge=lfs -text
+fudeji/NTF/collabo/khaos/jooointcar/JOOOINTWORLD/movie/hebi2.mp4 filter=lfs diff=lfs merge=lfs -text
